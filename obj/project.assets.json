@@ -2572,11 +2572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Books and College Accessories\\Dotnet Setup and tools\\dotnet-server-setup\\Project_Server.csproj",
+      "projectUniqueName": "D:\\Books and College Accessories\\Project Setup and tools\\dotnet-server-setup\\Project_Server.csproj",
       "projectName": "Project_Server",
-      "projectPath": "D:\\Books and College Accessories\\Dotnet Setup and tools\\dotnet-server-setup\\Project_Server.csproj",
+      "projectPath": "D:\\Books and College Accessories\\Project Setup and tools\\dotnet-server-setup\\Project_Server.csproj",
       "packagesPath": "C:\\Users\\amrendra\\.nuget\\packages\\",
-      "outputPath": "D:\\Books and College Accessories\\Dotnet Setup and tools\\dotnet-server-setup\\obj\\",
+      "outputPath": "D:\\Books and College Accessories\\Project Setup and tools\\dotnet-server-setup\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2655,7 +2655,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
